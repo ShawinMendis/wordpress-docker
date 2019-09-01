@@ -2,11 +2,11 @@
 
 ## step 01
 
-# clone the repo and cd in to the directory
+### clone the repo and cd in to the directory
 
 ## step 02
 
-# run docker-compose up
+### run docker-compose up
 
 Then open browser and navigate to http://localhost:8000 to open wordpres locally
 
